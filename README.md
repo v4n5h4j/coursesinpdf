@@ -1,2 +1,2 @@
 # educative.io_courses
-this is downloadings of all educative.io free student subscription courses
+This contains files from almost all educative.io free student subscription courses in .pdf format.
